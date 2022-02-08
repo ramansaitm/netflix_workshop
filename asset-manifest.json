@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/netflix_workshop/static/css/main.03ec56b6.css",
+    "main.js": "/netflix_workshop/static/js/main.0a4d3a5f.js",
+    "index.html": "/netflix_workshop/index.html",
+    "main.03ec56b6.css.map": "/netflix_workshop/static/css/main.03ec56b6.css.map",
+    "main.0a4d3a5f.js.map": "/netflix_workshop/static/js/main.0a4d3a5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03ec56b6.css",
+    "static/js/main.0a4d3a5f.js"
+  ]
+}
